@@ -1,0 +1,1 @@
+![](https://github.com/sral/aoc2019/workflows/aoc2019/badge.svg)
